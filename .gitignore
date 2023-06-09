@@ -4,3 +4,4 @@ node_modules
 projects/**/.DS_Store
 projects/**/dist
 .gitattributes
+tests
